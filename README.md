@@ -17,14 +17,16 @@
 
 | Studies | Activies | server package |
 | ------- | -------- | -------------- |
-| 01 | soon | xampp |
-| 02 | soon | xampp |
-| 03 | soon | xampp |
-| 04 | soon | xampp |
-| 05 | soon | xampp |
-| 06 | soon | xampp |
-| 07 | soon | xampp |
-| 08 | soon | xampp |
-| 09 | soon | xampp |
-| 09 | soon | xampp |
-| 10 | soon | xampp |
+| 01 | <a href="">Hello World!</a> | xampp | 
+| 02 | <a href="">soon!</a> | xampp |
+| 03 | <a href="">soon!</a> | xampp |
+| 04 | <a href="">soon!</a> | xampp |
+| 05 | <a href="">soon!</a> | xampp |
+| 06 | <a href="">soon!</a> | xampp |
+| 07 | <a href="">soon!</a> | xampp |
+| 08 | <a href="">soon!</a> | xampp |
+| 09 | <a href="">soon!</a> | xampp |
+| 09 | <a href="">soon!</a> | xampp |
+| 10 | <a href="">soon!</a> | xampp |
+
+୧⍤⃝🍓 Following: <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_">Lessons</a>
