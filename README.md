@@ -17,8 +17,8 @@
 
 | Studies | Activies | server package |
 | ------- | -------- | -------------- |
-| 01 | <a href="">Hello World!</a> | xampp | 
-| 02 | <a href="">Server data</a> | xampp |
+| 01 | <a href="https://github.com/Irissuu/PHP/tree/f667b91fd3ec905d5f775f0bd6ba4d31b6d77ee9/php/HelloWorld">Hello World!</a> | xampp | 
+| 02 | <a href="https://github.com/Irissuu/PHP/tree/f667b91fd3ec905d5f775f0bd6ba4d31b6d77ee9/php/ServerData">Server data</a> | xampp |
 | 03 | <a href="">soon!</a> | xampp |
 | 04 | <a href="">soon!</a> | xampp |
 | 05 | <a href="">soon!</a> | xampp |
