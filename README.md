@@ -29,4 +29,3 @@
 | 09 | <a href="">soon!</a> | xampp |
 | 10 | <a href="">soon!</a> | xampp |
 ##
-୧⍤⃝🍓 Following: <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_">Lessons</a>
